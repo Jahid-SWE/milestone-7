@@ -42,7 +42,7 @@ const products = [
     { id:3, name:'apple1', brand:'apple', price:5000, color:'gfold'},
     { id:4, name:'apple2', brand:'apple', price:50000, color:'gold'},
     { id:5, name:'apple2', brand:'x-12', price:50000, color:'gold'},
-    { id:6, name:'redmi2', brand:'xiaom', price:50000, color:'black'}
+    { id:6, name:'redmi2', brand:'xiaom ', price:50000, color:'black'}
 ]
 
 const newData = { id:7, name: 'walton', brand:'walton', price: 3000, color:'gray'
