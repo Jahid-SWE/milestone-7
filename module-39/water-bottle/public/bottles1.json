@@ -1,0 +1,64 @@
+
+
+[
+  {
+    "id": 1,
+    "brand": "Hydro Flask",
+    "capacity": 32,
+    "material": "Stainless Steel",
+    "color": "Black",
+    "price": 40,
+    "weight": 450,
+    "lifespan": 10,
+    "hotColdSupport": true,
+    "image": "https://example.com/hydro-flask.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Nalgene",
+    "capacity": 48,
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 15,
+    "weight": 180,
+    "lifespan": 5,
+    "hotColdSupport": false,
+    "image": "https://example.com/nalgene.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "CamelBak",
+    "capacity": 25,
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "price": 30,
+    "weight": 400,
+    "lifespan": 8,
+    "hotColdSupport": true,
+    "image": "https://example.com/camelbak.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Contigo",
+    "capacity": 24,
+    "material": "Plastic",
+    "color": "Green",
+    "price": 12,
+    "weight": 200,
+    "lifespan": 4,
+    "hotColdSupport": false,
+    "image": "https://example.com/contigo.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "S'well",
+    "capacity": 17,
+    "material": "Stainless Steel",
+    "color": "White",
+    "price": 35,
+    "weight": 350,
+    "lifespan": 7,
+    "hotColdSupport": true,
+    "image": "https://example.com/swell.jpg"
+  }
+]

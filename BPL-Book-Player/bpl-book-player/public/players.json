@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/B51NFf1z/gettyimages-1470422640-612x612.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.4,
+    "batting_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "350000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/DD3yZFcv/sajuv.jpg",
+    "player_name": "Sakib Al Hassan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.1,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium",
+    "price": "500000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/nqDKZ3dk/musfiqure.jpg",
+    "player_name": "Musfiqur Rohim",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.7,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "420000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/7tkZMFJR/naeem.jpg",
+    "player_name": "Nayeem Islam",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.3,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-spin",
+    "price": "610000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Tanjid sakib",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.9,
+    "batting_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "480000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Shahadat Anik",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicket-keeper",
+    "rating": 8.2,
+    "batting_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "390000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Sajib Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.6,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm spin",
+    "price": "440000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Adnan Alam",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.0,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "530000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Junaid Karim",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.5,
+    "batting_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "360000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Miraj Khan",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.8,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-spin",
+    "price": "470000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Rakibul Shakil",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.2,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast",
+    "price": "600000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/fGT6X36c/Tanjid.jpg",
+    "player_name": "Hasibul Fahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicket-keeper Batsman",
+    "rating": 8.3,
+    "batting_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "410000"
+  }
+]
